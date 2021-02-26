@@ -1,0 +1,16 @@
+*{ /** Configura alinhamento da página para qualquer navegador */
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 95vh ;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:red;
+}
